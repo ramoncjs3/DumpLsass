@@ -1,0 +1,3 @@
+# DumpLsass
+使用MiniDumpWriteDump与RtlReportSilentProcessExit实现提取lsass.dmp的工具
+

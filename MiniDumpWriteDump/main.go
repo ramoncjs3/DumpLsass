@@ -77,7 +77,6 @@ func MiniDumpWriteDump(hProcess windows.Handle, ProcessId uint32,
 }
 
 func main() {
-	log.Println("hello")
 	findPid()
 	setSeDebugPrivilege()
 
